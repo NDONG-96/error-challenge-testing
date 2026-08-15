@@ -15,7 +15,7 @@ authors:
   - family-names: "Maneval"
     given-names: "Daniel"
 date-released: 2026
-repository-code: "https://github.com/REPLACE_WITH_YOUR_USERNAME/proton-dose-calibration"
+repository-code: "https://github.com/NDONG-96/proton-dose-calibration"
 license: "MIT"
 abstract: >
   Analysis code for independent verification of the dose calibration
