@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Prompt-gamma flux monitoring for independent in vivo verification of the dose calibration coefficient in passive-scattering proton therapy: a machine learning study on 1781 patients"
+type: software
+authors:
+  - family-names: "Ndong"
+    given-names: "Martin"
+  - family-names: "Leni"
+    given-names: "Pierre-Emmanuel"
+  - family-names: "Hofverberg"
+    given-names: "Petter"
+  - family-names: "Schiappa"
+    given-names: "Renaud"
+  - family-names: "Gschwind"
+    given-names: "Régine"
+  - family-names: "Maneval"
+    given-names: "Daniel"
+date-released: 2026
+repository-code: "https://github.com/REPLACE_WITH_YOUR_USERNAME/proton-dose-calibration"
+license: "MIT"
+abstract: >
+  Analysis code for independent verification of the dose calibration
+  coefficient in passive-scattering proton therapy using prompt-gamma
+  flux monitoring and machine-learning methods.
