@@ -18,6 +18,21 @@ proton-dose-calibration/
     └── figures/
 ```
 
+## Manuscript and archived release
+
+This repository contains the analysis code and computational resources
+associated with the manuscript currently under peer review.
+
+The clinical input dataset is not publicly distributed and is therefore
+not included in this repository.
+
+The version corresponding to the current archived release is:
+
+- GitHub release: `v1.0.0`
+- Zenodo DOI: `10.5281/zenodo.21947824`
+
+The archived version can be cited using the DOI above.
+
 ## Analysis workflow
 
 The complete analysis is implemented in the Jupyter notebook:
@@ -91,6 +106,15 @@ The clinical input dataset is not publicly distributed with this repository. Onl
 
 ## Citation
 
-If you use this code, please cite the associated publication.
+For the archived software release, please cite:
 
-Citation information will be provided in `CITATION.cff`.
+Ndong, M., Leni, P.-E., Hofverberg, P., Schiappa, R.,
+Gschwind, R., and Maneval, D. (2026).
+Prompt-gamma flux monitoring for independent in vivo verification
+of the dose calibration coefficient in passive-scattering proton
+therapy: a machine learning study on 1781 patients.
+Zenodo. https://doi.org/10.5281/zenodo.21947824
+
+The citation metadata are also provided in `CITATION.cff`.
+
+The associated manuscript is currently under peer review.
