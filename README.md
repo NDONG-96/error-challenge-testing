@@ -1,6 +1,6 @@
 # Error-challenge testing
 
-This repository contains the analysis code associated with the study on error testing of the secondary-radiation monitoring system in ocular proton therapy, within the context of passive-scattering proton therapy.
+This repository contains the analysis codes associated with the study on error testing of the secondary-radiation monitoring system in ocular proton therapy, within the context of passive-scattering proton therapy.
 
 ## Repository structure
 
