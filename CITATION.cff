@@ -18,9 +18,6 @@ date-released: 2026
 repository-code: "https://github.com/NDONG-96/error-challenge-testing"
 license: "MIT"
 abstract: >
-  Analysis code for independent verification of the dose calibration
-  coefficient in passive-scattering proton therapy using prompt-gamma
-  flux monitoring and machine-learning methods.
 
   Analysis codes associated with the study on error testing of the
   secondary-radiation monitoring system in ocular proton therapy,
