@@ -1,29 +1,8 @@
-# Python
-__pycache__/
-*.py[cod]
-*.so
-.venv/
-venv/
-env/
+data/input/all_data_test.csv
+data/input/all_data_train.csv
+data/input/campaign_deliveries.csv
+data/input/input_complet_test.csv
+data/input/input_partial_test.csv
 
-# Jupyter
-.ipynb_checkpoints/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# IDEs
-.vscode/
-.idea/
-
-# Temporary files
-*.tmp
-*.log
-
-# Generated results
-results/*.csv
-results/*.xlsx
-
-# Private / non-distributed input data
-data/input/input.csv
+proton-dose_calibration/
+proton-dose_calibration.zip
