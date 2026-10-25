@@ -395,10 +395,8 @@ For the archived software release, please cite:
 
 Ndong, M., Leni, P.-E., Hofverberg, P., Schiappa, R.,  
 Gschwind, R., and Maneval, D. (2026).  
-*Prompt-gamma flux monitoring for independent in vivo verification  
-of the dose calibration coefficient in passive-scattering proton  
-therapy: a machine learning study on 1781 patients.*  
-Zenodo. https://doi.org/10.5281/zenodo.21947824
+*Error-challenge testing of secondary-radiation monitoring in ocular proton therapy.*  
+Zenodo. https://doi.org/10.5281/zenodo.23599899
 
 The citation metadata are also provided in `CITATION.cff`.
 
