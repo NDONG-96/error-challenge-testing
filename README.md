@@ -38,12 +38,12 @@ proton-dose-calibration/
 ## Manuscript and archived release
 
 
-This repository contains the analysis codes, computational resources, and clinical input dataset associated with the manuscript currently under peer review.
+This repository contains the analysis codes and computational resources associated with the manuscript currently under peer review.
 
 The version corresponding to the current archived release is:
 
-- GitHub release: `v1.0.0`
-- Zenodo DOI: `10.5281/zenodo.21947824`
+- GitHub release: `v1.1.1`
+- Zenodo DOI: `10.5281/zenodo.23599899`
 
 The archived version can be cited using the DOI above.
 
